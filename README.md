@@ -20,4 +20,4 @@ Hello! I am Computer Science and Engineering undergraduate student at Galgotias 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src=""C:\Users\abhis\Downloads\programmer.gif"" alt="alternatetext">
+
